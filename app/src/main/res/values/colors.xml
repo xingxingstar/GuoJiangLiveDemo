@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="transparents">#00000000</color>
+
+
+    <color name="grey_bg">#EEEEEE</color>
+    <color name="sx_white">#ffffff</color>
+    <color name="sx_white_transparents">#a3FFFFFF</color>
+    <color name="sx_transparent">@android:color/transparent</color>
+    <color name="sx_half_transprent">#90000000</color>
+    <color name="sx_3_transprent">#10000000</color>
+    <color name="sx_6_transprent">#60000000</color>
+    <color name="sx_transprent">#f0000000</color>
+
+    <color name="myblack">@android:color/black</color>
+    <color name="sx_dark_black">#3E3A39</color>
+    <color name="sx_black">#333333</color>
+    <color name="sx_black_all">#000000</color>
+
+    <color name="sx_grey_F7">#F7F7F7</color>
+    <color name="sx_grey_F6">#F6F6F6</color>
+    <color name="sx_thin_grey">#F8F9FB</color>
+    <color name="sx_grey_F">#F6F6F6</color>
+    <color name="sx_grey_E">#EEEEEE</color>
+    <color name="sx_grey_E5">#E5E5E5</color>
+    <color name="sx_grey_pale">#FAFAFA</color>
+    <color name="sx_brown">#F2EBE4</color>
+    <color name="sx_grey">#BBBBBB</color>
+    <color name="sx_grey_C">#CCCCCC</color>
+    <color name="sx_grey_DE">#DEDEDE</color>
+    <color name="sx_grey_80">#808080</color>
+    <color name="sx_line_grey">#D4D4D4</color>
+    <color name="sx_grey_CA">#CACACF</color>
+    <color name="sx_bnt_cancle">#D5C9BB</color>
+    <color name="sx_dark_grey">#B9AD9F</color>
+    <color name="sx_khaki">#BAAEA0</color>
+    <color name="sx_grey_AB">#ABABAB</color>
+    <color name="sx_grey_CD">#CDCDCD</color>
+    <color name="sx_pale_dark_green">#7BCEA5</color>
+    <color name="sx_pale_dark_golden">#BAAEA0</color>
+    <color name="sx_grey_7">#777777</color>
+    <color name="sx_grey_D9">#D9D9D8</color>
+    <color name="sx_grey_9">#999999</color>
+    <color name="sx_grey_C2">#C2C2C2</color>
+    <color name="sx_pale_dark_grey">#ABABAB</color>
+    <color name="sx_grey_4B">#4B4B4B</color>
+
+
+
+    <color name="sx_dark_red">#EA645B</color>
+    <color name="sx_tran_red">#99EA645B</color>
+    <color name="sx_light_red">#ff4d31</color>
+    <color name="actionbar">#EA645B</color>
+    <color name="sx_orange">#C6490D</color>
+
+    <color name="sx_theme_green">#7BCEA5</color>
+    <color name="sx_tran_green">#997BCEA5</color>
+    <color name="sx_green">#7cd13d</color>
+    <color name="sx_blue">#3DD1D5</color>
+    <color name="teal">#00796B</color>
+    <color name="sx_blue_7B">#7BCEA5</color>
+    <color name="sx_darker_blue">#007AFF</color>
+    <color name="sx_dark_blue">#426BF2</color>
+    <color name="black">#000000</color>
+    <color name="pale_black">#3E3A39</color>
+    <color name="cart_toolbar">#F98D47</color>
+    <color name="sx_yw">#FFF5EE</color>
+</resources>

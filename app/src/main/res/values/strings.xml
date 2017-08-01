@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">果酱直播</string>
+    <string name="user_protcol"><font color="#ffffff">登录即代表你同意</font><u><font color="#7BCEA5">用户协议</font></u></string>
+    <string name="user_register"><u>新用户注册</u>></string>
+    <string name="user_rpassword"><u>忘记密码</u>]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

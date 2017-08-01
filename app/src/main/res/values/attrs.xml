@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomNavigationView">
+        <attr name="home_drawable" format="reference"></attr>
+        <attr name="play_drawable" format="reference"></attr>
+        <attr name="mse_drawable" format="reference"></attr>
+        <attr name="camera_drawable" format="reference"></attr>
+        <attr name="user_drawable" format="reference"></attr>
+    </declare-styleable>
+</resources>

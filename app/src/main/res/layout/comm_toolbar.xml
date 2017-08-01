@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/rl_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/sx_grey_pale"
+            android:fitsSystemWindows="true">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolBar"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/sx_50dp"
+                android:background="@color/sx_white"></android.support.v7.widget.Toolbar>
+
+            <TextView
+                android:id="@+id/toolBarTitle"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/sx_50dp"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxLines="1"
+                android:background="@color/sx_transparent"
+                android:textColor="@color/sx_black"
+                android:textSize="@dimen/sp_16" />
+
+            <TextView
+                android:id="@+id/tool_set"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/sx_50dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/sx_20dp"
+                android:gravity="center_vertical"
+                android:text="发布"
+                android:textColor="@color/sx_dark_red"
+                android:textSize="@dimen/sp_14"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/sx_1dp"
+            android:background="@color/sx_grey_C"></View>
+    </LinearLayout>
+</layout>
